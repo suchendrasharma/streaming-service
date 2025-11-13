@@ -5,7 +5,7 @@
 [![MongoDB]](https://www.mongodb.com/)
 [![License: MIT]](LICENSE)
 
-> Backend service for an OTT Streaming Platform built using **NestJS** and **MongoDB**.  
+> Backend service for streaming built using **NestJS** and **MongoDB**.  
 > Designed to be modular, scalable, and production-like — primarily created as part of my backend architecture learning and interview prep.
 
 ---
@@ -14,8 +14,6 @@
 
 This project implements the backend foundation of a streaming platform.  
 The key implemented feature for now is **“My List”** — where users can save their favourite movies and TV shows.
-
-The entire app is structured manually (no boilerplate generators) to make it **interview-worthy** — every module, service, and shared utility is built with clear reasoning.
 
 ---
 
